@@ -4,7 +4,7 @@
 import SwiftUI
 
 @available(iOS 13.0,*)
-public struct MyLibrary {
+public struct MyLibrary: View{
     public init(){
         
     }
